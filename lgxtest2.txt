@@ -1,1 +1,2 @@
 my name is lgx.
+test git push to lgxtest2.
